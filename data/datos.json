@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nombre": "Preparación de venta",
+        "precio": 30000,
+        "imagen": "img/renew.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Sacabollos artesanal",
+        "precio": 50000,
+        "imagen": "img/sacabollo.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Tratamiento cerámico/acrilico",
+        "precio": 40000,
+        "imagen": "img/tratamiento.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Polarizados",
+        "precio": 20000,
+        "imagen": "img/polarizado.jpg"
+    }
+
+]
